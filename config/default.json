@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://billy:Madrid23@workouttracker.h5l5p.mongodb.net/workouttracker?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}

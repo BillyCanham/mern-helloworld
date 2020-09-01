@@ -1,0 +1,4 @@
+usr model & validation
+creating hash passwords and registering routes
+creating an responding with jason web tokens
+auth middleware and protecting private routes
